@@ -1,0 +1,149 @@
+{
+  "project": {
+    "name": "Steam Premium",
+    "version": "1.0.0",
+    "description": "Landing page premium para Steam Premium - Método fácil, seguro e vantajoso para adicionar jogos na Steam",
+    "author": "Steam Premium Team"
+  },
+  "branding": {
+    "logo_text": "STEAM",
+    "logo_premium": "PREMIUM",
+    "tagline": "Adicione qualquer jogo na sua Steam de forma segura"
+  },
+  "colors": {
+    "primary": "#00d9ff",
+    "primary_dark": "#00b8d4",
+    "secondary": "#00ff88",
+    "accent": "#ff006e",
+    "dark_bg": "#0b0f17",
+    "dark_card": "#1a1f2e",
+    "dark_light": "#2a3142",
+    "text_primary": "#e8ecf1",
+    "text_secondary": "#a0aec0"
+  },
+  "links": {
+    "cta_primary": "https://pay.cakto.com.br/34um9bm_587463?affiliate=VKbRTaaj",
+    "video_youtube": "https://youtu.be/mFr7t1AoYq0?si=_LxxocKUDijpRhOG",
+    "assets_base_url": "https://steampremium.netlify.app/assets/"
+  },
+  "statistics": {
+    "customers": "15.000+",
+    "games_added": "250.000+",
+    "satisfaction": "98%"
+  },
+  "games_carousel": [
+    {
+      "title": "GTA V",
+      "image": "game-gta.jpg"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "image": "game-cyberpunk.jpg"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "image": "game-rdr2.jpg"
+    },
+    {
+      "title": "Elden Ring",
+      "image": "game-elden.jpg"
+    },
+    {
+      "title": "EA FC",
+      "image": "game-eafc.jpg"
+    },
+    {
+      "title": "God of War",
+      "image": "game-gow.jpg"
+    },
+    {
+      "title": "Hogwarts Legacy",
+      "image": "game-hogwarts.jpg"
+    },
+    {
+      "title": "Resident Evil 4",
+      "image": "game-re4.jpg"
+    },
+    {
+      "title": "Call of Duty",
+      "image": "game-cod.jpg"
+    },
+    {
+      "title": "Forza Horizon",
+      "image": "game-forza.jpg"
+    },
+    {
+      "title": "The Last of Us",
+      "image": "game-tlou.jpg"
+    },
+    {
+      "title": "Rust",
+      "image": "game-rust.jpg"
+    },
+    {
+      "title": "PUBG",
+      "image": "game-pubg.jpg"
+    },
+    {
+      "title": "Counter-Strike 2",
+      "image": "game-cs2.jpg"
+    },
+    {
+      "title": "Spider-Man",
+      "image": "game-spiderman.jpg"
+    }
+  ],
+  "benefits": [
+    {
+      "icon": "🛡️",
+      "title": "Sem Risco de Banimento",
+      "description": "Método 100% seguro e verificado pela comunidade."
+    },
+    {
+      "icon": "⚡",
+      "title": "Método Rápido e Simples",
+      "description": "Acesso instantâneo em poucos passos simples."
+    },
+    {
+      "icon": "📚",
+      "title": "Acesso a Centenas de Jogos",
+      "description": "Biblioteca completa com os maiores títulos."
+    },
+    {
+      "icon": "⏱️",
+      "title": "Funciona em Poucos Minutos",
+      "description": "Ative sua conta e comece a jogar agora."
+    },
+    {
+      "icon": "💬",
+      "title": "Suporte Completo ao Cliente",
+      "description": "Equipe pronta para ajudar 24/7."
+    },
+    {
+      "icon": "🔄",
+      "title": "Atualizações Frequentes",
+      "description": "Novos jogos adicionados constantemente."
+    },
+    {
+      "icon": "🔐",
+      "title": "Plataforma Segura",
+      "description": "Dados protegidos com encriptação máxima."
+    }
+  ],
+  "seo": {
+    "title": "Steam Premium - Adicione Qualquer Jogo na Sua Steam de Forma Segura",
+    "description": "Método premium, rápido e prático para acessar jogos na Steam sem risco de banimento e com suporte completo. +15.000 clientes satisfeitos.",
+    "keywords": "Steam, jogos, conta Steam, Games, acesso seguro, plataforma gamer",
+    "og_image": "https://steampremium.netlify.app/assets/og-image.jpg"
+  },
+  "features": {
+    "countdown": true,
+    "active_users": true,
+    "carousel_infinite": true,
+    "parallax": true,
+    "mouse_glow": true,
+    "ripple_effect": true,
+    "smooth_scroll": true,
+    "lazy_loading": true
+  }
+}

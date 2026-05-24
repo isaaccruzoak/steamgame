@@ -1,0 +1,27 @@
+{
+  "name": "steam-premium-landing",
+  "version": "1.0.0",
+  "description": "Landing page premium para Steam Premium - Método seguro para adicionar jogos na Steam",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'Pronto para deploy'",
+    "dev": "npx live-server",
+    "minify-css": "npx cssnano styles.css -o styles.min.css",
+    "minify-js": "npx terser script.js -o script.min.js -c -m"
+  },
+  "keywords": [
+    "steam",
+    "games",
+    "landing-page",
+    "premium",
+    "modern-design",
+    "responsive"
+  ],
+  "author": "Steam Premium Team",
+  "license": "MIT",
+  "devDependencies": {
+    "cssnano": "^6.0.0",
+    "terser": "^5.0.0"
+  }
+}
